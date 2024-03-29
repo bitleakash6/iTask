@@ -31,4 +31,4 @@ iTask is built using modern web technologies to ensure a smooth and responsive u
 Netlify (or any preferred hosting platform) for deployment
 
 ### SnapShot
-<img src="">
+<img src="https://github.com/bitleakash6/iTask/blob/main/iTask.png">
