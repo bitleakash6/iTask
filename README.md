@@ -27,5 +27,5 @@ iTask is built using modern web technologies to ensure a smooth and responsive u
 4. React.js
 
 
-** Git for version control **
+**Git for version control**
 Netlify (or any preferred hosting platform) for deployment
